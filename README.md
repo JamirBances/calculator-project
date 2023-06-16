@@ -16,13 +16,13 @@ Esta es una calculadora simple desarrollada con React. Permite realizar operacio
 Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. Clona el repositorio en tu máquina local: 
-    git clone <URL del repositorio>
+   - git clone <URL del repositorio>
 2. Navega al directorio del proyecto:
-    cd calculadora-react
+   - cd calculadora-react
 3. Instala las dependencias:
-    npm install
+   - npm install
 4. Inicia la aplicación:
-    npm start
+   - npm start
 
 La calculadora estará disponible en http://localhost:3000 en tu navegador.
 
