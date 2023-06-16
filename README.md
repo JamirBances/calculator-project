@@ -3,14 +3,14 @@ Esta es una calculadora simple desarrollada con React. Permite realizar operacio
 
 ## Características
   * Interfaz de usuario intuitiva con botones para los dígitos del 0 al 9 y los operadores +, -, *, /.
-  - Muestra el resultado de las operaciones en tiempo real.
+  * Muestra el resultado de las operaciones en tiempo real.
   * Permite realizar cálculos consecutivos ingresando múltiples operaciones seguidas.
   * Botón de limpiar para restablecer el valor mostrado en la pantalla.
 
 ## Tecnologías utilizadas
-  React: Librería de JavaScript para construir interfaces de usuario interactivas.
-  JSX: Sintaxis de extensión de JavaScript utilizada para definir los componentes de la interfaz de usuario.
-  CSS: Estilos básicos para la apariencia visual de la calculadora.
+  * React: Librería de JavaScript para construir interfaces de usuario interactivas.
+  * JSX: Sintaxis de extensión de JavaScript utilizada para definir los componentes de la interfaz de usuario.
+  * CSS: Estilos básicos para la apariencia visual de la calculadora.
 
 ## Instalación
 Sigue estos pasos para ejecutar el proyecto localmente:
