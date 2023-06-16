@@ -64,7 +64,7 @@ function App() {
   return (
     <>
       <div className="flex flex-col justify-center items-center h-screen px-3">
-        <div className="bg-red-500 h-[710px] lg:w-[550px] sm:w-[450px] rounded-3xl p-7">
+        <div className="bg-red-500 h-[650px] lg:w-[550px] sm:w-[450px] rounded-3xl p-7">
           <input
             className="bg-[#ff9466] h-[20%] w-[100%] text-4xl rounded-3xl text-white text-right p-6"
             type="text"
@@ -171,7 +171,7 @@ function App() {
               .
             </button>
           </div>
-          <span className="flex justify-center relative top-2 text-white italic text-opacity-25">
+          <span className="flex justify-center relative top-1 text-white italic text-opacity-25">
             Made with ❤️ Jamir Bances.
           </span>
         </div>
